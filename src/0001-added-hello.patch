@@ -1,0 +1,21 @@
+From 2a1b83a3cca23382806e3d5c2fc56d0c113d0cad Mon Sep 17 00:00:00 2001
+From: ABHIJEET-27 <tripabhi81@gmail.com>
+Date: Mon, 20 Aug 2018 05:06:11 +0000
+Subject: [PATCH] added hello
+
+---
+ src/string_operations.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/string_operations.c b/src/string_operations.c
+index 25a901a..b0eea8f 100644
+--- a/src/string_operations.c
++++ b/src/string_operations.c
+@@ -1,3 +1,4 @@
++Hello Welcome!
+ #include <stdio.h>
+ #include <conio.h>
+ char *my_strcat(char *t, char *s)
+-- 
+2.7.4
+
