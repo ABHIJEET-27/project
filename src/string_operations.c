@@ -1,6 +1,7 @@
 Hello Welcome!
 #include <stdio.h>
 #include <conio.h>
+size_t w_strlen(const wchar_t *s)
 char *my_strcat(char *t, char *s)
 size_t my_strlen(const char *s)
 {
